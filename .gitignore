@@ -1,0 +1,9 @@
+# Secrets
+.env
+
+# Pipeline data
+data/
+
+# Python
+__pycache__/
+*.pyc
